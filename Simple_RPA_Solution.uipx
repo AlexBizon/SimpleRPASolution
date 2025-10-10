@@ -1,0 +1,12 @@
+{
+  "DocVersion": "1.0.0",
+  "StudioMinVersion": "2025.04.0",
+  "SolutionId": "c6dd695c-ecaa-4fa3-7023-08de0331784d",
+  "Projects": [
+    {
+      "Type": "Process",
+      "ProjectRelativePath": "RPA Workflow/project.uiproj",
+      "Id": "1637fdb7-04bd-4213-b30f-47867d7f81cb"
+    }
+  ]
+}
